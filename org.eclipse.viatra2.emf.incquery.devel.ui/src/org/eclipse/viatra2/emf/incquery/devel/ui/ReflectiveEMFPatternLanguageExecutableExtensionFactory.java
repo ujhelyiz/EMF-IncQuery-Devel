@@ -2,7 +2,7 @@ package org.eclipse.viatra2.emf.incquery.devel.ui;
 
 import hu.cubussapiens.xtext.reflectiveeditor.XtextReflectiveEditorPlugin;
 
-import org.eclipse.viatra2.patternlanguage.ui.EMFPatternLanguageExecutableExtensionFactory;
+import org.eclipse.incquery.patternlanguage.emf.ui.EMFPatternLanguageExecutableExtensionFactory;
 import org.osgi.framework.Bundle;
 
 public class ReflectiveEMFPatternLanguageExecutableExtensionFactory extends
